@@ -2,6 +2,14 @@
 
 Welcome to my projects showcase! Below are some of the exciting projects I've worked on, spanning various domains and technologies.
 
+## Object Detection System
+
+![Object Detection System](https://raw.githubusercontent.com/vipulmalyan/Cloud-Wallpapers/main/screenshots/objdet.png)
+
+[Cloud Application](https://objdet.streamlit.app/)
+
+Description: Developed and deployed a robust object detection system using YOLOv5 and Streamlit, enabling real-time detection on images and videos via an intuitive web interface. Integrated YOLOv5 deep learning model for accurate object detection and created an interactive platform with Streamlit for user-friendly image/video uploads and detection output viewing.
+
 ## Heart Stroke Prediction App
 
 ![Heart Stroke Prediction App](https://raw.githubusercontent.com/vipulmalyan/Cloud-Wallpapers/main/screenshots/heartstroke.png)
@@ -17,14 +25,6 @@ Description: In the healthcare sector, dealing with vast amounts of data require
 [Cloud Application](https://share.streamlit.io/app/movrecommend/)
 
 Description: Created a dynamic Movie Recommendation System using Python and Streamlit, analyzing extensive movie datasets to offer personalized movie suggestions based on user preferences. Implemented an intuitive interface allowing users to select preferred movies and receive curated recommendations, enhancing the movie discovery experience.
-
-## Object Detection System
-
-![Object Detection System](https://raw.githubusercontent.com/vipulmalyan/Cloud-Wallpapers/main/screenshots/objdet.png)
-
-[Cloud Application](https://objdet.streamlit.app/)
-
-Description: Developed and deployed a robust object detection system using YOLOv5 and Streamlit, enabling real-time detection on images and videos via an intuitive web interface. Integrated YOLOv5 deep learning model for accurate object detection and created an interactive platform with Streamlit for user-friendly image/video uploads and detection output viewing.
 
 ## Credit Card Fraud Detection App
 
